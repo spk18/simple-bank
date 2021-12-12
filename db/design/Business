@@ -1,0 +1,10 @@
+Searches for:
+Table 
+'entries'
+    1) find transfers for a from account only
+    2) find transfers for a to account only
+    3) find transfers for a specific amount only
+    4) find transfers for a specific from and to account
+    5) find transfers for a specific from and to account with specific amount
+    6) find transfers for a specific date range only
+    7) find transfers for a specific from and to account for a specific date range
